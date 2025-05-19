@@ -12,10 +12,10 @@
 
 The Club of Syndicate is more than just a group — it’s a movement driven by curiosity, ambition, and synergy. Our mission is to bring together like-minded thinkers, creators, and leaders to explore new horizons across various domains such as technology, entrepreneurship, culture, and community development.
 
-🔭 We are currently working on a project **uniclub**
-👯 We are a group of collaboratives focusing on **Tech, Creativity, Research, and Innovation**
-🌱 We are a group of **continuous learners**
-💬 **Ask us about anything** related to the projects and clubs on our social media handles
+🔭 We are currently working on a project **uniclub**<br>
+👯 We are a group of collaboratives focusing on **Tech, Creativity, Research, and Innovation**<br>
+🌱 We are a group of **continuous learners**<br>
+💬 **Ask us about anything** related to the projects and clubs on our social media handles<br>
 ⚡ **Fun fact:** We’re not just learning skills — we’re building character, confidence, and a community.
 
 ## 🌐 Connect With Us:
