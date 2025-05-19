@@ -9,6 +9,7 @@ Welcome to the Club of Syndicate — where innovation meets collaboration, and i
 
 ## 🖼 Here we represent our banner and a motive to work together
 ![Syndicate_Linkedin_banner ](https://github.com/user-attachments/assets/bdf8903a-fdaa-4d0e-878a-48dcbfcd63e0)
+Welcome to the Club of Syndicate – where ideas unite, skills grow, and impact begins.
 
 
 ## 💻 Tech Stack:
